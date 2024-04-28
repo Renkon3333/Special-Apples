@@ -1,5 +1,6 @@
 # Special-Apples
 MINECRAFTに特殊なリンゴを追加します。
+※ 1.20.5 に対応済みです。
 
 1. Diamond Apple
 2. Emerald Apple
