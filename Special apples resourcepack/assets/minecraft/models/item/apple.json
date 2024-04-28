@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/apple"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "minecraft:item/diamond_apple"},
+    {"predicate": {"custom_model_data": 2}, "model": "minecraft:item/emerald_apple"},
+    {"predicate": {"custom_model_data": 3}, "model": "minecraft:item/netherite_apple"},
+    {"predicate": {"custom_model_data": 4}, "model": "minecraft:item/amethyst_apple"},
+    {"predicate": {"custom_model_data": 5}, "model": "minecraft:item/kelp_apple"},
+    {"predicate": {"custom_model_data": 6}, "model": "minecraft:item/iron_apple"},
+    {"predicate": {"custom_model_data": 7}, "model": "minecraft:item/copper_apple"},
+    {"predicate": {"custom_model_data": 8}, "model": "minecraft:item/lapis_apple"}
+  ]
+}
