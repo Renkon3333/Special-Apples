@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "food",
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:diamond"
+      },
+      "A": {
+        "item": "minecraft:apple"
+      }
+    },
+    "result": {
+      "id": "minecraft:apple",
+      "count": 1,
+      "components": {
+        "minecraft:custom_model_data": 1,
+        "minecraft:item_name": "ダイヤモンドのリンゴ",
+        "minecraft:rarity": "rare",
+        "minecraft:food": {
+          "nutrition": 4,
+          "saturation": 9.6,
+          "can_always_eat": true,
+          "eat_seconds": 1.6
+        }
+      }
+    }
+  }
+  
