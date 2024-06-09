@@ -12,3 +12,4 @@ MINECRAFTに特殊なリンゴを追加します。
 8. Lapis Apple
 
 これらは全てリンゴをそれぞれの素材で囲うことで作成できます。
+https://github.com/RenkonGitHub/Special-Apples/releases/tag/1.0.0
